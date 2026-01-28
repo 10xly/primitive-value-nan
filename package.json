@@ -1,0 +1,26 @@
+{
+  "name": "primitive-value-nan",
+  "version": "1.0.0",
+  "description": "NaN",
+  "keywords": [
+    "NaN"
+  ],
+  "homepage": "https://github.com/10xly/primitive-value-nan#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/primitive-value-nan/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/primitive-value-nan.git"
+  },
+  "license": "MIT",
+  "author": "TJ- COMMITS",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nan-is-a-function": "67.67.67"
+  }
+}
